@@ -517,6 +517,7 @@ textarea.input {
   background: #07c7f7;
   text-align: right;
   z-index: 20;
+  opacity: 1.0;
 }
 
 .speaker .speaker-content>h2 {
@@ -1053,8 +1054,8 @@ textarea.input {
     font-size: 31px;
   }
   .event .event-day {
-    width: 90px;
-    height: 90px;
+    width: 45px;
+    height: 45px;
   }
   .event .event-content {
     padding-left: 115px;
