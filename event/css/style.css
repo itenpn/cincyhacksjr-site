@@ -517,7 +517,7 @@ textarea.input {
   background: #07c7f7;
   text-align: right;
   z-index: 20;
-  opacity: 1.0;
+  opacity: 0.0;
 }
 
 .speaker .speaker-content>h2 {
@@ -538,6 +538,7 @@ textarea.input {
   z-index: 5;
   -webkit-transition: 0.3s all;
   transition: 0.3s all;
+  opacity: 0.0;
 }
 
 .speaker .speaker-social>a {
@@ -566,8 +567,11 @@ textarea.input {
   -webkit-transform: translateY(-100%);
   -ms-transform: translateY(-100%);
   transform: translateY(-100%);
+  opacity: 1.0;
 }
-
+.speaker:hover .speaker-content {
+  opacity: 1.0;
+}
 /*----------------------------*\
 	Speaker Modal
 \*----------------------------*/
