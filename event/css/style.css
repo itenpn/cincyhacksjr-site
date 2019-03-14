@@ -1050,7 +1050,7 @@ textarea.input {
   }
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 600px) {
   .home-content h1 {
     font-size: 31px;
   }
@@ -1062,14 +1062,17 @@ textarea.input {
     height: 45px;
   }
   .event .event-content {
-    padding-left: 115px;
+    padding-left: 200px;
+    height: 20px;
+
   }
   .event .event-day .day {
     font-size: 31px;
-    line-height: 31px;
+    line-height: 45px;
   }
   .event .event-hour {
     left: 47px;
+
   }
   .event:after {
     left: 45px;
