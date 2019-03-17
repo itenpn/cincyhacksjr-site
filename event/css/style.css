@@ -38,7 +38,7 @@ RESPONSIVE
 \*----------------------------*/
 
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 16px;
   color: #444;
 }
@@ -409,6 +409,10 @@ textarea.input {
   color: #0b0f28;
 }
 
+.about-content {
+  text-align: left;
+}
+
 /*=========================================================
 	GALERY
 ===========================================================*/
@@ -501,7 +505,11 @@ textarea.input {
 }
 
 .speaker .speaker-img>img {
-  width: 100%
+  width: 100%;
+}
+
+.speaker img {
+ max-width: 100px;
 }
 
 .speaker .speaker-body {
@@ -869,7 +877,7 @@ textarea.input {
 
 .copyright {
   height: 50px;
-  line-height: 50px;
+  font-size: 10px;
 }
 
 .contact-social {
@@ -1085,6 +1093,36 @@ textarea.input {
 
 @media only screen and (max-width: 480px) {
   [class*='col-xs'] {
-    width: 100%;
+    width: auto;
   }
+}
+
+#numbers .number{
+  text-align: center;
+  display: inline-block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.sponsor img {
+  max-width: 300px;
+}
+
+.sponsor {
+  text-align: center;
+}
+
+.firstlogo {
+  width: 70%;
+  max-width: 300px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+#about a {
+  text-decoration: underline;
+}
+
+#about p {
+  margin-bottom: 30px;
 }

@@ -1,0 +1,148 @@
+<!-- Speakers -->
+<div id="speakers" class="section">
+  <!-- container -->
+  <div class="container">
+    <!-- row -->
+    <div class="row">
+      <!-- section title -->
+      <div class="section-title">
+        <h3 class="title"><span>Our</span> <span style="color: #07c7f7;">Organizers</span></h3>
+      </div>
+      <!-- section title -->
+
+      <!-- speaker -->
+      <div class="col-md-4 col-sm-6">
+        <div class="speaker" data-toggle="modal" data-target="#speaker-modal-1">
+          <div class="speaker-img">
+            <img src="./img/vikram.jpg" alt="">
+          </div>
+          <div class="speaker-body" >
+            <div class="speaker-social">
+              <a href="#"><i class="fa fa-facebook"></i></a>
+              <a href="#"><i class="fa fa-twitter"></i></a>
+              <a href="#"><i class="fa fa-instagram"></i></a>
+              <a href="#"><i class="fa fa fa-linkedin"></i></a>
+            </div>
+            <div class="speaker-content" >
+              <h2>Vikram Deepak</h2>
+              <span>Lead Organizer</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- /speaker -->
+
+      <!-- speaker -->
+      <div class="col-md-4 col-sm-6">
+        <div class="speaker" data-toggle="modal" data-target="#speaker-modal-1">
+          <div class="speaker-img">
+            <img src="./img/dalton.jpg" alt="">
+          </div>
+          <div class="speaker-body">
+            <div class="speaker-social">
+              <a href="#"><i class="fa fa-facebook"></i></a>
+              <a href="#"><i class="fa fa-twitter"></i></a>
+              <a href="#"><i class="fa fa-instagram"></i></a>
+              <a href="#"><i class="fa fa fa-linkedin"></i></a>
+            </div>
+            <div class="speaker-content">
+              <h2>Dalton Craven</h2>
+              <span>Organizer</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- /speaker -->
+
+      <!-- speaker -->
+      <div class="col-md-4 col-sm-6">
+        <div class="speaker" data-toggle="modal" data-target="#speaker-modal-1">
+          <div class="speaker-img">
+            <img src="./img/annie.jpg" alt="">
+          </div>
+          <div class="speaker-body">
+            <div class="speaker-social">
+              <a href="#"><i class="fa fa-facebook"></i></a>
+              <a href="#"><i class="fa fa-twitter"></i></a>
+              <a href="#"><i class="fa fa-instagram"></i></a>
+              <a href="#"><i class="fa fa fa-linkedin"></i></a>
+            </div>
+            <div class="speaker-content">
+              <h2>Annie Wang</h2>
+              <span>Organizer</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- /speaker -->
+
+      <!-- speaker -->
+      <div class="col-md-4 col-sm-6">
+        <div class="speaker" data-toggle="modal" data-target="#speaker-modal-1">
+          <div class="speaker-img">
+            <img src="./img/katherine.jpg" alt="">
+          </div>
+          <div class="speaker-body">
+            <div class="speaker-social">
+              <a href="#"><i class="fa fa-facebook"></i></a>
+              <a href="#"><i class="fa fa-twitter"></i></a>
+              <a href="#"><i class="fa fa-instagram"></i></a>
+              <a href="#"><i class="fa fa fa-linkedin"></i></a>
+            </div>
+            <div class="speaker-content">
+              <h2>Katherine Hu</h2>
+              <span>Organizer</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- /speaker -->
+
+      <!-- speaker -->
+      <div class="col-md-4 col-sm-6">
+        <div class="speaker" data-toggle="modal" data-target="#speaker-modal-1">
+          <div class="speaker-img">
+            <img src="./img/mullika.jpg" alt="">
+          </div>
+          <div class="speaker-body">
+            <div class="speaker-social">
+              <a href="#"><i class="fa fa-facebook"></i></a>
+              <a href="#"><i class="fa fa-twitter"></i></a>
+              <a href="#"><i class="fa fa-instagram"></i></a>
+              <a href="#"><i class="fa fa fa-linkedin"></i></a>
+            </div>
+            <div class="speaker-content">
+              <h2>Mullika Pandit</h2>
+              <span>Organizer</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- /speaker -->
+      <!-- speaker -->
+      <div class="col-md-4 col-sm-6">
+        <div class="speaker" data-toggle="modal" data-target="#speaker-modal-1">
+          <div class="speaker-img">
+            <img src="./img/alan.jpg" alt="">
+          </div>
+          <div class="speaker-body">
+            <div class="speaker-social">
+              <a href="#"><i class="fa fa-facebook"></i></a>
+              <a href="#"><i class="fa fa-twitter"></i></a>
+              <a href="#"><i class="fa fa-instagram"></i></a>
+              <a href="#"><i class="fa fa fa-linkedin"></i></a>
+            </div>
+            <div class="speaker-content">
+              <h2>Alan Guo</h2>
+              <span>Organizer</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- /speaker -->
+    </div>
+    <!-- /row -->
+  </div>
+  <!-- /container -->
+</div>
+<!-- /Speakers -->

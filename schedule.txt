@@ -1,0 +1,84 @@
+<!-- Event Schedule -->
+<div id="schedule" class="section">
+  <!-- container -->
+  <div class="container">
+    <!-- row -->
+    <div class="row">
+      <!-- section title -->
+      <div class="section-title">
+        <h3 class="title"><span>Event</span> <span style="color: #07c7f7;">Schedule</span></h3>
+      </div>
+      <!-- /section title -->
+
+      <div class="col-md-8 col-md-offset-2">
+
+        <div class="events-wrapper">
+          <!-- event -->
+          <div class="event">
+            <div class="event-day">
+              <div>
+                <span class="day">6</span>
+                <span class="year">April, 2019</span>
+              </div>
+            </div>
+            <div class="event-content">
+              <p class="event-time"><i class="fa fa-clock-o"></i> 9 : 00 AM </p>
+              <h3 class="event-title">Doors Open/Opening Ceremony </h3>
+
+            </div>
+          </div>
+          <!-- /event -->
+          <!-- event -->
+          <div class="event">
+            <div class="event-hour"></div>
+            <div class="event-content">
+              <p class="event-time"><i class="fa fa-clock-o"></i> 9 : 30 AM</p>
+              <h3 class="event-title">Hacking Begins</h3>
+
+            </div>
+          </div>
+          <!-- /event -->
+          <!-- event -->
+          <div class="event">
+            <div class="event-hour"></div>
+            <div class="event-content">
+              <p class="event-time"><i class="fa fa-clock-o"></i> 12 : 30 PM</p>
+              <h3 class="event-title">Lunch</h3>
+
+            </div>
+          </div>
+          <!-- /event -->
+
+          <!-- event -->
+          <div class="event">
+            <div class="event-hour"></div>
+            <div class="event-content">
+              <p class="event-time"><i class="fa fa-clock-o"></i> 4 : 30 PM</p>
+              <h3 class="event-title">Hacking Ends, Judging Begins</h3>
+
+            </div>
+          </div>
+          <!-- /event -->
+          <!-- event -->
+          <div class="event">
+            <div class="event-hour"></div>
+            <div class="event-content">
+              <p class="event-time"><i class="fa fa-clock-o"></i> 5 : 00 PM - 5 : 30 PM</p>
+              <h3 class="event-title">Judging Ends, Closing Ceremony, End of Event</h3>
+
+            </div>
+          </div>
+        </div>
+          <!-- /event -->
+
+        <div class="download-btn">
+          <a href="#" class="main-btn">Download Schedule</a>
+        </div>
+
+      </div>
+    </div>
+    <!-- /row -->
+  </div>
+  <!-- /container -->
+</div>
+<!-- /Event Schedule -->
